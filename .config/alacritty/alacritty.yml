@@ -1,0 +1,22 @@
+window:
+  padding:
+    x: 15
+    y: 15
+  opacity: 0.9
+
+scrolling:
+  history: 1000
+
+font:
+  normal:
+    family: JetBrainsMono
+    style: Regular
+
+  bold:
+    family: JetBrainsMono
+    style: Bold
+
+  size: 10.0
+
+import:
+  - .config/dracula.yml

@@ -1,0 +1,10 @@
+{
+  "bar": "decorated",
+  "browser": "firefox",
+  "colorscheme": "catppuccin",
+  "terminal": {
+    "main": "",
+    "floating": ""
+  },
+  "wallpaper": "~/.config/qtile/wallpaper.png"
+}

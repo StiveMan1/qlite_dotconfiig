@@ -1,0 +1,37 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="1" l="1675912030961" />
+    </e>
+    <e n="EditorDelete">
+      <i c="1" l="1675912029661" />
+    </e>
+    <e n="EditorLeft">
+      <i c="5" l="1675912067631" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1675912211246" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1675912096273" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1675911745400" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
+      <i c="1" l="1675912103690" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1675912076307" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="5" l="1675912223006" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1675911724971" />
+    </e>
+    <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
+      <i c="1" l="1675912066846" />
+    </e>
+  </component>
+</application>
